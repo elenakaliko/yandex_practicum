@@ -41,7 +41,7 @@
 - session_date — web session date
 - user_id — user identifier
 
-5) датасет plans table
+5) датасет plans
 - plan_name — calling plan name
 - usd_monthly_fee — monthly charge in US dollars
 - minutes_included — monthly minute allowance
