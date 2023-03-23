@@ -16,6 +16,7 @@
 Описание датасетов:
 1) датасет users
 user_id — unique user identifier
+
 first_name — user's name
 last_name — user's last name
 age — user's age (years)
