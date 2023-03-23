@@ -18,11 +18,8 @@
 user_id — unique user identifier
 first_name — user's name
 last_name — user's last name
-
 age — user's age (years)
-
 reg_date — subscription date (dd, mm, yy)
-
 churn_date — the date the user stopped using the service (if the value is missing, the calling plan was being used when this database was extracted)
 city — user's city of residence
 plan — calling plan name
@@ -43,9 +40,9 @@ The internet table (data on web sessions):
 mb_used — the volume of data spent during the session (in megabytes)
 session_date — web session date
 user_id — user identifier
-The plans table (data on the plans):
 
-5) датасет plan_name 
+5) датасет plans table
+plan_name — calling plan name
 usd_monthly_fee — monthly charge in US dollars
 minutes_included — monthly minute allowance
 messages_included — monthly text allowance
